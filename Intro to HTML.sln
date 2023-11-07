@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{792631B2-225B-450D-8515-0535AE2558AC}"
+	ProjectSection(SolutionItems) = preProject
+		About.html = About.html
+		Classes.html = Classes.html
+		Contact.html = Contact.html
+		Heading.html = Heading.html
+		Home.html = Home.html
+		HTMLPage1.html = HTMLPage1.html
+		HTMLPage2.html = HTMLPage2.html
+		HTMLPage3.html = HTMLPage3.html
+		iframes.html = iframes.html
+		Index.html.html = Index.html.html
+		JavaScript.html = JavaScript.html
+		Link.HTML = Link.HTML
+		Links.html = Links.html
+		Other intro Element.html = Other intro Element.html
+		skills.html = skills.html
+		StyleSheet1.css = StyleSheet1.css
+		StyleSheet2.css = StyleSheet2.css
+		Table.html = Table.html
+		tableCSS.css = tableCSS.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002B3473-CB30-438F-A025-DC7A55B0DEE1}
+	EndGlobalSection
+EndGlobal

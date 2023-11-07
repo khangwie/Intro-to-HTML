@@ -1,0 +1,13 @@
+﻿body
+{
+
+
+}
+a:link {
+    color:purple;
+    background-color:Yellow;
+
+}
+a:hover {
+    background-color: blue;
+}

@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="keywords" content="Javascriot, HTML, CSS"/>
+    <meta name=" description" content="This is a learning demo"/>
+    <meta name=" author" content=" Khnagwelo Rasalanavho"/>
+    <title>Java Script</title>
+</head>
+ 
+<body>
+    <button type="button"
+            onclick="document.getElementById('demo').innerHTML = Date()">
+
+        Click Me for Date
+
+    </button>
+
+    <p id="demo"> </p>
+
+
+    <button type="button" onclick="myFunction()"> click for hello </button>
+
+    <p id="Hello"> This will greet you </p>
+
+    <script>
+         function myFunction() {
+            document.getElementById("Hello").innerHTML = " Hello, This is Java Script" 
+
+         }
+
+    </script>
+
+
+</body>
+</html>
